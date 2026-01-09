@@ -1,0 +1,2 @@
+# Loan_Funding_Prediction_for_Kiva_Crowdfunding_Platform_using_ML
+Minor Project-Loan Funding Prediction for Kiva Crowdfunding Platform using ML
